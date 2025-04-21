@@ -7,8 +7,8 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 paginate: 5
 
-title : 石头的事儿
-tagline: 石头爱生活，爱技术，爱科技，爱折腾
+title : 石头
+tagline: 石头爱，爱技术，爱科技，爱折腾
 author :
   name : stormzhang
   description: Android Developer, Google Fans, Like OpenSource
